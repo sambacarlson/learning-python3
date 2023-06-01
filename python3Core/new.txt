@@ -1,0 +1,3 @@
+This text document has been created to test the working of files in python 3
+Python is awesome language and with the power of working with files in python,
+We will be able to open and modify this file as we see fit
